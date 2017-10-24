@@ -13,4 +13,6 @@ int main(){
 	cout <<"Luas 1 box parket	:"<<LP<<" m2"<<endl;
 	double Jp=LR/LP;
 	cout <<"Jumlah box parket	:"<<Jp<<endl;
+	double BP=Jp*500;
+	cout <<"Biaya parket(Rp)	:"<<BP<<endl;
 }
