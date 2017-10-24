@@ -10,4 +10,5 @@ int main(){
 	double L=p*l;
 	double LB=L*8;
 	double LP=LB/1000000;
+	cout <<"Luas 1 box parket	:"<<LP<<" m2"<<endl;
 }
