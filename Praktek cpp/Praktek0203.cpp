@@ -12,4 +12,7 @@ int main(){
 	
 	cout << beratTon<<endl;
 	
+	double jumlah=1/beratTon;
+	cout << jumlah;
+	
 }
