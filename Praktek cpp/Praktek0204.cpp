@@ -17,4 +17,6 @@ int main(){
 	cout <<"Biaya parket(Rp)	:"<<BP<<endl;
 	double BPs=LR*20;
 	cout <<"Biaya pasang(Rp)	:"<<BPs<<endl;
+	double TB=BP+BPs;
+	cout <<"Total Biaya(Rp)		:"<<TB<<endl;
 }
