@@ -9,4 +9,5 @@ int main(){
 	int l=1215;
 	double L=p*l;
 	double LB=L*8;
+	double LP=LB/1000000;
 }
